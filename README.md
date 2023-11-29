@@ -1,2 +1,2 @@
 # ContaBancariaBDD
-![Screenshot]("BDD/src/imagens/testes.png")
+![Screenshot]("src/imagens/testes.png")
